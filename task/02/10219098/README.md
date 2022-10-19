@@ -209,6 +209,7 @@ plt.savefig('Figure (1) Grafik Osilasi Teredam.png')
 Hasilnya adalah
 
 ```
+![alt text](https://github.com/AldianNurAzmar/fi4002-01-2022-1/blob/main/task/02/10219098/Figure%20(1)%20Grafik%20Osilasi%20Teredam.jpg?raw=true)
 ```
 
 
