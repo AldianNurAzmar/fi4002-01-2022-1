@@ -207,19 +207,15 @@ plt.savefig('Figure (1) Grafik Osilasi Teredam.png')
 ```
 
 Hasilnya adalah
-
-```
-![alt text](https://github.com/AldianNurAzmar/fi4002-01-2022-1/blob/main/task/02/10219098/Figure%20(1)%20Grafik%20Osilasi%20Teredam.jpg?raw=true)
-```
-
+![alt text](https://github.com/AldianNurAzmar/fi4002-01-2022-1/blob/main/task/02/10219098/Figure%20(1)%20Grafik%20Osilasi%20Teredam.png)
 
 ## cara perkuliahan
-+ Tuliskan pendapat Anda mengenai cara perkuliahan selama ini dan cantumkan usulan untuk perkuliahan setelah UTS.
++ Sistem perkuliahan dan materi yang diberikan sudah baik, materi seperti code dan visualisasi yang diberikan sudah jelas dan baik, penjelasan mengenai materi yang diberikan sudah sistematis dan lengkap, serta tugas yang diberikan juga memeberikan dampak yang baik kepada kami karena tugas tersebut membuat kami lebih paham terhadap materi yang telah disampaikan sebelumnya.
 
 
 ## topik sistem fisis
-+ Tuliskan sistem fisis yang menarik bagi Anda untuk dikaji lebih dalam dan jelaskan alasannya mengapa.
++ Sistem fisis yang menurut saya menarik adalah sistem pegas antara dua partikel, karena kedua sistem tersebut dapat merepresentasikan suatu fenomena yang kompleks atau dapat dikatakan sebagai suatu sistem granular, hal tersebut mempermudah kita dalam menyederhanakan suatu fenomena yang memiliki jumlah atau ukuran interaksi yang besar.
 
 
 ## simulasi dan visualisasi
-+ Apakah Anda tertarik dengan simulasi dan visualisasi? Jelaskan topik yang ingin Anda simulasikan / visualisasikan serta cantumkan alasannya dan perkiraan pusataka Python yang perlu digunakan.
++ Saya memiliki ketertarikan terhadap suatu simulasi dan visualisasi yang berkaitan dengan fluida, karena beberapa hal yang sedang saya kerjakan berkaitan dengan fluida termasuk tugas akhir saya, fenomena fluida merupakan suatu fenomena yang sangat menarik karena banyak hal yang dapat ditinjau dari fenomena tersebut. Library yang digunakan dalam simulasi dan visualisasi tersebut seperti NumPy, Pandas, dan Matplotlib.
